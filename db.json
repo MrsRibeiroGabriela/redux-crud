@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "name": "Ms. Wayne Towne",
+      "email": "Aileen.Kunze@hotmail.com",
+      "id": 4
+    },
+    {
+      "name": "Paty",
+      "email": "paty@mail.com",
+      "id": 6
+    },
+    {
+      "name": "John",
+      "email": "john@mail.com",
+      "id": 7
+    },
+    {
+      "name": "Gatsby",
+      "email": "gatsby@mail.com",
+      "id": 8
+    }
+  ]
+}
